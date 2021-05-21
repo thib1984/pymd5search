@@ -2,9 +2,9 @@ from setuptools import setup
 
 
 setup(
-    name="pymd5search loops and tries to find a string which equals to itself when encoded with the md5 hash function",
+    name="pymd5search",
     version="0.0.1",
-    description="pymd5search",
+    description="pymd5search loops and tries to find a string which equals to itself when encoded with the md5 hash function",
     long_description="The complete description/installation/use/FAQ is available at : https://github.com/thib1984/pymd5search#readme",
     url="https://github.com/thib1984/pymd5search",
     author="thib1984",
