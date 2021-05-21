@@ -11,6 +11,16 @@ or
 ## use
 
 ``pymd5search`` 
+
+## options 
+
+``-h/--help`` : display the help message
+
+``-d/--debug`` : increase the verbosity
+
+``-c/--c`` : limit the number of tests
+
+``-s/--start`` : begin with the given string and use the md5(string) for the next test, etc
 ## update 
 
 ``pymd5search -u`` to update pymd5search
