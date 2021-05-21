@@ -26,6 +26,24 @@ def compute_args():
         "--update",
         action="store_true",
         help="update pymd5search",
-    )       
+    )
+    my_parser.add_argument(
+        "-debug",
+        "--debug",
+        action="store_true",
+        help="increase verbosity",
+    )
+    my_parser.add_argument(
+        "-c",
+        "--count",
+        type=int,
+        help="limit number of test",
+    )
+    my_parser.add_argument(
+        "-s",
+        "--start",
+        type=str,
+        help="start from the string given and use his md5 for the next test...",
+    )                             
     args = my_parser.parse_args()
     return args
