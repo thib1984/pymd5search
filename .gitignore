@@ -1,0 +1,6 @@
+build
+dist
+pymd5search.egg-info
+.vscode
+venv
+
