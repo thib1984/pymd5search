@@ -37,9 +37,18 @@ or
 ## Upgrade 
 
 ``pymd5search -u`` to update pymd5search
+# :construction_worker: Contribution
 
+```
+git clone https://github.com/thib1984/pymd5search.git
+cd pymd5search 
+#work!
+pip3 install . #to build
+pymd5search #to retest
+pip3 uninstall pymd5search #to properly uninstall the dev version
+``` 
 
-# Changelog
+# :package: Changelog
 ## 0.2.0
 
 Add parameters -d, -s, -c 
