@@ -1,5 +1,8 @@
 # pymd5search
 
+![demo_md5](https://user-images.githubusercontent.com/45128847/137624298-05f25f21-bdfd-45ea-9ba2-aeec110b501c.gif)
+
+
 pymd5search loops and tries to find a string which equals to itself when encoded with the md5 hash function
 
 ## install
