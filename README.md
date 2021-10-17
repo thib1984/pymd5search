@@ -20,6 +20,7 @@ pymd5search loops and tries to find a string which equals to itself when encoded
 
 ``-s/--start`` : begin with the given string and use the md5(string) for the next test, etc
 
+``-u/--update`` : update pymd5search
 
 # ⚙️ Prerequisites, Installation, Upgrade 
 
@@ -37,6 +38,8 @@ or
 ## Upgrade 
 
 ``pymd5search -u`` to update pymd5search
+
+
 # :construction_worker: Contribution
 
 ```
