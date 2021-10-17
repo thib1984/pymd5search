@@ -10,7 +10,7 @@ pymd5search loops and tries to find a string which equals to itself when encoded
 
 ``pymd5search`` 
 
-## Options 
+## Other options 
 
 ``-h/--help`` : display the help message
 
@@ -22,40 +22,13 @@ pymd5search loops and tries to find a string which equals to itself when encoded
 
 ``-u/--update`` : update pymd5search
 
-# ⚙️ Prerequisites, Installation, Upgrade 
+# ⚙️ Install
 
-## Prerequisites
-
-- Install Python 3 for your system
-- Install pip3* for your system
-- Install git for your system
-
-## Installation
-
-``pip3 install pymd5search``
-or
-``pip install pymd5search``
-## Upgrade 
-
-``pymd5search -u`` to update pymd5search
-
+See [this page](INSTALL.md)
 
 # :construction_worker: Contribution
 
-```
-git clone https://github.com/thib1984/pymd5search.git
-cd pymd5search 
-#work!
-pip3 install . #to build
-pymd5search #to retest
-pip3 uninstall pymd5search #to properly uninstall the dev version
-``` 
+See [this page](CONTRIBUTING.md)
 
 # :package: Changelog
-## 0.2.0
-
-Add parameters -d, -s, -c 
-
-## 0.1.0
-
-Initial version
+See [this page](CHANGELOG.md)
